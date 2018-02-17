@@ -8,7 +8,7 @@ setup(
     author='Michael Pinkham, Nick Ackerman',
     install_requires=[
         'selenium',
-	'geckodriver'
+        'requests'
     ],
     long_description=open('README.md').read()
 )
